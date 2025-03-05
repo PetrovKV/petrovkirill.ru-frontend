@@ -115,7 +115,7 @@ function App() {
               <p className="text-gray-600 text-sm">© 2025 ListPDF Project. All rights reserved.</p>
               <div className="flex items-center space-x-4 mt-4 md:mt-0">
                 <a
-                    href="https://github.com"
+                    href="https://github.com/PetrovKV"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-gray-600 transition-colors"

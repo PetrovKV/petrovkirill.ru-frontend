@@ -175,7 +175,7 @@ function App() {
             <a href="https://t.me/KirillPetrov27" className="p-4 bg-gray-700 rounded-full hover:bg-blue-600 transition-colors">
               <Send size={24} />
             </a>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-4 bg-gray-700 rounded-full hover:bg-blue-600 transition-colors">
+            <a href="https://github.com/PetrovKV" target="_blank" rel="noopener noreferrer" className="p-4 bg-gray-700 rounded-full hover:bg-blue-600 transition-colors">
               <Github size={24} />
             </a>
             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-4 bg-gray-700 rounded-full hover:bg-blue-600 transition-colors">
