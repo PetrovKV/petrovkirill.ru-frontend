@@ -4,7 +4,7 @@ Repository for the frontend of my site petrovkirill.ru Frontend is made on react
 The frontend includes the main page as well as the ListPDF project pages, which allows the user to work with pdf documents.
 
 Project Structure
-# Project Structure
+## Project Structure
 
 - **Main page (/)**
   - **ListPDF project (/ListPDF)**
